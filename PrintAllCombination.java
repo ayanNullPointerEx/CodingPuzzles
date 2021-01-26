@@ -1,5 +1,41 @@
 package com.company;
 
+/*
+Input 
+============
+number = 10;
+Output
+============
+Print all combinations that adds up to - 10
+9+1
+8+2
+8+1+1
+7+3
+7+2+1
+6+4
+6+3+1
+6+2+2
+6+2+1+1
+5+5
+5+4+1
+5+3+2
+5+3+1+1
+Print all combinations that adds up to - 10
+9+1
+8+2
+8+1+1
+7+3
+7+2+1
+6+4
+6+3+1
+6+2+2
+6+2+1+1
+5+5
+5+4+1
+5+3+2
+5+3+1+1
+ */
+
 public class PrintAllCombination {
     public static void main(String[] args) {
         int number = 10;
